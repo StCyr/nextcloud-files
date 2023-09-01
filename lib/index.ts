@@ -43,6 +43,8 @@ export * from './navigation/navigation'
 export * from './navigation/column'
 export * from './navigation/view'
 
+export * from './utils/uniqueNameGenerator'
+
 /**
  * Add a new menu entry to the upload manager menu
  *
